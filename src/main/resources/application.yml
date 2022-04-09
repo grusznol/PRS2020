@@ -4,9 +4,9 @@ spring:
     port: 8989
 
 ustawienia:
-  numerIndeksu: 287046
+  numerIndeksu: 439655
   wycena: "CENY_BEZ_ZMIAN"
   zamowienia: "POJEDYNCZE"
   zaopatrzenie: "POJEDYNCZE"
-  wydarzenia: "WYCOFANIE"
+  wydarzenia: "INWENTARYZACJA"
   liczbaZadan: 200
